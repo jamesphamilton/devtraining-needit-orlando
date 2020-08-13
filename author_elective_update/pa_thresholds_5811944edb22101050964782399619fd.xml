@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds">
+    <pa_thresholds action="DELETE">
+        <active>true</active>
+        <aggregate/>
+        <all_time_amount/>
+        <breakdown/>
+        <breakdown_level2/>
+        <condition>more_than</condition>
+        <create_score_notes>true</create_score_notes>
+        <display>NeedIt: Due Monthly</display>
+        <element/>
+        <element_level2/>
+        <indicator display_value="NeedIt: Due Monthly">7bccc8b1dbea1010509647823996194e</indicator>
+        <last_check/>
+        <owner/>
+        <sys_class_name>pa_thresholds</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 20:09:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5811944edb22101050964782399619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_thresholds_5811944edb22101050964782399619fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 20:09:01</sys_updated_on>
+        <value>225</value>
+    </pa_thresholds>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5b38eec6db65fb04b847ac44d496197d</instance_id>
+        <instance_name>dev86307</instance_name>
+        <name>pa_thresholds_5811944edb22101050964782399619fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds"><pa_thresholds action="INSERT_OR_UPDATE"><active>true</active><aggregate/><all_time_amount/><breakdown/><breakdown_level2/><condition>more_than</condition><create_score_notes>true</create_score_notes><display>NeedIt: Due Monthly</display><element/><element_level2/><indicator display_value="NeedIt: Due Monthly">7bccc8b1dbea1010509647823996194e</indicator><last_check/><owner/><sys_class_name>pa_thresholds</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-11 20:09:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5811944edb22101050964782399619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt: Due Monthly</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_thresholds_5811944edb22101050964782399619fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-11 20:09:01</sys_updated_on><value>225</value></pa_thresholds></record_update>]]></payload>
+        <payload_hash>-821325785</payload_hash>
+        <record_name>NeedIt: Due Monthly</record_name>
+        <reverted_from/>
+        <source>eec74c79dbaa10105096478239961930</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 20:09:01</sys_created_on>
+        <sys_id>6c11944edb22101050964782399619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173df23efcf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 20:09:01</sys_updated_on>
+        <type>Threshold</type>
+        <update_guid>a411944eee2210104e73207cf9d872fe</update_guid>
+        <update_guid_history>a411944eee2210104e73207cf9d872fe:-821325785</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Due Monthly">3441dc0edb2210105096478239961989</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 20:09:51</sys_created_on>
+        <sys_db_object display_value="" name="pa_thresholds">pa_thresholds</sys_db_object>
+        <sys_id>1f9706f713f143308d0239a402f1f704</sys_id>
+        <sys_metadata>5811944edb22101050964782399619fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_thresholds_5811944edb22101050964782399619fd</sys_update_name>
+        <sys_update_version display_value="pa_thresholds_5811944edb22101050964782399619fd">6c11944edb22101050964782399619fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 20:09:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
